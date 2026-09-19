@@ -1,0 +1,8 @@
+{
+  "name": "Creamy Waffles",
+  "description": "Creamy Waffles in Hyderabad — enjoy delicious waffles, desserts, shakes and refreshing drinks. Dine-in, takeaway and delivery available.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
